@@ -43,7 +43,7 @@
         }
         //test si l'id n'existe pas 
         else{
-            header('Location : showProduit.php?error');
+            header('Location: showProduit.php?error');
         }
     ?>
 </body>
